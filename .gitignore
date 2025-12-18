@@ -1,0 +1,16 @@
+# Node.js
+frontend/node_modules/
+npm-debug.log*
+
+# Python
+backend/__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# OS / Editor
+.DS_Store
+.vscode/
